@@ -1,0 +1,3 @@
+[submodule "mjs-claude-skill-cmux"]
+	path = mjs-claude-skill-cmux
+	url = git@github.com:matthewjschultz/mjs-claude-skill-cmux.git
