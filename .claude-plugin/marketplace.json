@@ -16,6 +16,16 @@
       "description": "Claude Code integration for the cmux terminal multiplexer — workspace management, pane splitting, notifications, sidebar status, browser automation, and multi-agent orchestration",
       "keywords": ["cmux", "terminal", "multiplexer", "panes", "notifications", "multi-agent"],
       "category": "terminal"
+    },
+    {
+      "name": "mjsfx-sound-design",
+      "source": {
+        "source": "github",
+        "repo": "matthewjschultz/mjs-claude-skill-mjsfx"
+      },
+      "description": "Design retro / 8-bit game sound effects (and invent original ones) with the MJSFX app through its MCP tools — coins, lasers, explosions, jumps, power-ups, UI blips, cohesive sound families, and experimental textures",
+      "keywords": ["mjsfx", "sound-design", "sfx", "8-bit", "chiptune", "game-audio", "mcp"],
+      "category": "audio"
     }
   ]
 }
