@@ -4,3 +4,6 @@
 [submodule "mjs-claude-skill-mjsfx"]
 	path = mjs-claude-skill-mjsfx
 	url = https://github.com/matthewjschultz/mjs-claude-skill-mjsfx.git
+[submodule "mjs-claude-skill-swift-midi"]
+	path = mjs-claude-skill-swift-midi
+	url = git@github.com:matthewjschultz/mjs-claude-skill-swift-midi.git

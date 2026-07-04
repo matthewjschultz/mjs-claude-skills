@@ -26,6 +26,16 @@
       "description": "Design retro / 8-bit game sound effects (and invent original ones) with the MJSFX app through its MCP tools — coins, lasers, explosions, jumps, power-ups, UI blips, cohesive sound families, and experimental textures",
       "keywords": ["mjsfx", "sound-design", "sfx", "8-bit", "chiptune", "game-audio", "mcp"],
       "category": "audio"
+    },
+    {
+      "name": "swift-midi",
+      "source": {
+        "source": "github",
+        "repo": "matthewjschultz/mjs-claude-skill-swift-midi"
+      },
+      "description": "Verified knowledge of orchetect's swift-midi package family (the successor to MIDIKit) for writing MIDI code in Swift apps — device I/O, virtual endpoints, CC/note/transport events, MIDI learn, clock sync, network/Bluetooth MIDI, and sandbox entitlements",
+      "keywords": ["midi", "swift", "swiftui", "swift-midi", "midikit", "coremidi", "music", "audio"],
+      "category": "audio"
     }
   ]
 }
